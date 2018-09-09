@@ -1,0 +1,32 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.main{
+	width:100%;
+	min-width: 900px;
+	margin: auto;
+}
+
+.slides{
+	widows: 90%;
+}
+
+.slides.img{
+	width: 100%;
+}
+
+.slides .active {
+	background: #2b1b0b;
+}
+
+.slidesjs-navigation{
+	background: rgb(249,189,4);
+	opacity: 0.7;
+	color: #000;
+	text-decoration: none;
+	display: inline-block;
+	padding: 10px 20px;
+	float: right;
+}

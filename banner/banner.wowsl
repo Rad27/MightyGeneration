@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>true</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>fade</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>32</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>banner</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>kenburns,fade</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>600</ImageHeight>
+            <ImageQuality>100</ImageQuality>
+            <ImageShrink2>true</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/gothic/</ImageTemplate>
+            <ImageTemplateName>Gothic</ImageTemplateName>
+            <ImageWidth>800</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>true</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/Abigail/Documents/Lenguaje 4/Escuela/banner.html</PublishFileName>
+            <PublishIndex>banner.html</PublishIndex>
+            <PublishPath>C:/Users/Abigail/Documents/Lenguaje 4/Escuela</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>true</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>2</SizeStyle>
+            <SlideshowDelay>90</SlideshowDelay>
+            <SlideshowDuration>43</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>true</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#ffffff</TemplateColor>
+            <TemplateFont>Didact Gothic</TemplateFont>
+            <TemplateName>gothic</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/Abigail/Documents/Bluetooth Folder/20160913_160809.jpg</url>
+                <filesize>1014041</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Abigail/Documents/Bluetooth Folder/20160913_161129.jpg</url>
+                <filesize>1086823</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Abigail/Documents/Bluetooth Folder/20160913_162208.jpg</url>
+                <filesize>1088358</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Abigail/Documents/Bluetooth Folder/20160913_164736.jpg</url>
+                <filesize>813032</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Abigail/Documents/Bluetooth Folder/20160913_165013.jpg</url>
+                <filesize>1047185</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
