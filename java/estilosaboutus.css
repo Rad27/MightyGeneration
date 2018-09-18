@@ -1,7 +1,7 @@
 body{
 	font-family: 'Gochi Hand', cursive;
 	font-size: 16px; 
-	background: #343434;
+	background: beige;
 }
 header{
 	position: fixed;
@@ -12,6 +12,7 @@ header{
 header figure{
 	float: left;
 	margin-top: 2%;
+
 }
 header figure img{
 	width: 100px;
@@ -19,7 +20,7 @@ header figure img{
 	border-radius: 25%
 }
 header h1 {
-	color: #f67906;
+	color: #fff;
 	font-family: 'Yatra One', cursive;
 	font-size: 1.1em;
 	display: block;
@@ -33,7 +34,7 @@ div.menu_bar{
 /*MENU*/
 header nav{
 	margin: auto;
-	background: #343434;
+	background: chocolate;
 	box-shadow: 1px 1px 6px #000;
 }
 header nav > ul {
@@ -64,7 +65,7 @@ header nav > ul > li > ul > li a{
 	text-decoration: none;
 	font-weight: bolder;
 	color:#fff;
-	background:  #343434;
+	background: chocolate;
 	padding: 3%;
 	border-bottom-right-radius:  25%;
 	border-bottom-left-radius: 25%;
@@ -241,7 +242,7 @@ p.a{
 	background: #0380cb ;
 }
 .footer{
-	background: #f9bd04;
+	background: chocolate;
 	padding: 0;
 	margin:0;
 }
@@ -252,7 +253,7 @@ p.a{
 	position: relative;
 	overflow: hidden;
 	color: #022377;
-	background: #f9bd04;
+	background: chocolate;
 	width: 100%;
 }
 .footer figure{
@@ -267,7 +268,7 @@ p.a{
 	margin-right: 0;
 }
 .footer a{
-	color: #022377;
+	color:#fff;
 	text-decoration: none;
 }
 .footer a:hover{
@@ -291,15 +292,14 @@ p.a{
 		margin-top: 0;
 		float: none;
 		font-size: 1.0em;
-		background: #343434;
 		padding-top: 0px;
+		background: chocolate;
 	}
 	header nav{
 		width: 50%;
 		height: 100%;
 		position: fixed;
 		left: -100%;
-		background: #343434;
 	}
 	header nav> ul >li {
 		display: block;
@@ -332,13 +332,12 @@ p.a{
 	div.menu_bar{
 		display: block;
 		width: 100%;
-		background: #343434;
 		border-bottom: 1px solid rgba(255, 255, 255, .3);
+		background: chocolate;
 	}
 	div a{
 		display: block;
 		padding: 10px;
-		background: #343434;
 		color: #fff;
 		text-decoration: none;
 		font-weight: bolder;
@@ -350,5 +349,32 @@ p.a{
 	div a span{
 		float: right;
 		font-size: 1.3em;
+	}
+	/* BARRA SOCIAL */
+	div.social {
+		display: none;
+	}
+	.footer p{
+		font-size: 0.8em;
+		color: #fff;
+	}
+	.footer figure img{
+		margin-top: 10%;
+		width: 50%;
+		height: 40%;
+		float: right;
+	}
+	.footer a{
+		font-size: 0.8em;
+	}
+	.footer li{
+		display: flex; 
+		font-size: 0.7em;
+	}
+	.footer h4{
+		font-size: 0.7em;
+	}
+	.footer h3{
+		font-size: 0.8em;
 	}
 }

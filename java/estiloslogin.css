@@ -6,7 +6,7 @@
 body{
 	font-family: 'Gochi Hand', cursive;
 	font-size: 16px; 
-	background: #343434;
+	background: beige;
 }
 header{
 	position: relative;
@@ -24,7 +24,7 @@ header figure img{
 	border-radius: 25%
 }
 header h1 {
-	color: #f67906;
+	color: white;
 	font-family: 'Yatra One', cursive;
 	font-size: 1.1em;
 	display: block;
@@ -37,7 +37,7 @@ div.menu_bar{
 }
 /*MENU*/
 header nav{
-	background: #343434;
+	background: chocolate;
 	box-shadow: 1px 1px 6px #000;
 	padding-top: 0;
 }
@@ -68,7 +68,7 @@ header nav > ul > li > ul > li a{
 	text-decoration: none;
 	font-weight: bolder;
 	color:#fff;
-	background:  #343434;
+	background:  chocolate;
 	padding: 3%;
 	border-bottom-right-radius:  25%;
 	border-bottom-left-radius: 25%;
@@ -153,7 +153,7 @@ div.social ul li a:hover{
 #caja{
 	background: #f0f0f0;
 	width: 300px;
-	border: 1px solid white;
+	border: 1px solid chocolate;
 	padding-top: 0px;
 	margin: 150px auto;
 	padding: 1em;
@@ -193,7 +193,7 @@ input[type=button]{
 	background: #0380cb ;
 }
 .footer{
-	background: #f9bd04;
+	background: chocolate;
 	padding: 0;
 	margin:0;
 }
@@ -203,7 +203,7 @@ input[type=button]{
 	position: relative;
 	overflow: hidden;
 	color: #022377;
-	background: #f9bd04;
+	background: chocolate;
 	width: 100%;
 }
 .footer figure{
@@ -242,7 +242,7 @@ input[type=button]{
 		margin-top: 0;
 		float: none;
 		font-size: 1.0em;
-		background: #343434;
+		background: chocolate;
 		padding-top: 0px;
 	}
 	header nav{
@@ -250,7 +250,6 @@ input[type=button]{
 		height: 100%;
 		position: fixed;
 		left: -100%;
-		background: #343434;
 	}
 	header nav> ul >li {
 		display: block;
@@ -283,13 +282,12 @@ input[type=button]{
 	div.menu_bar{
 		display: block;
 		width: 100%;
-		background: #343434;
+		background: chocolate;
 		border-bottom: 1px solid rgba(255, 255, 255, .3);
 	}
 	div a{
 		display: block;
 		padding: 10px;
-		background: #343434;
 		color: #fff;
 		text-decoration: none;
 		font-weight: bolder;
@@ -301,5 +299,33 @@ input[type=button]{
 	div a span{
 		float: right;
 		font-size: 1.3em;
+	}
+	/* BARRA SOCIAL */
+	div.social {
+		display: none;
+	}
+	/* FOOTER */
+	.footer p{
+		font-size: 0.8em;
+		color: #fff;
+	}
+	.footer figure img{
+		margin-top: 10%;
+		width: 50%;
+		height: 40%;
+		float: right;
+	}
+	.footer a{
+		font-size: 0.8em;
+	}
+	.footer li{
+		display: flex; 
+		font-size: 0.7em;
+	}
+	.footer h4{
+		font-size: 0.7em;
+	}
+	.footer h3{
+		font-size: 0.8em;
 	}
 }

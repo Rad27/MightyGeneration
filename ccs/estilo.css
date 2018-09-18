@@ -384,9 +384,6 @@ div.social ul li a:hover{
 		display: none;
 	}
 	/* FOOTER */
-	.footer{
-		background: chocolate;
-	}
 	.footer p{
 		font-size: 0.8em;
 		color: #fff;
